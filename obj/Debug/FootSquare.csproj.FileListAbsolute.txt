@@ -1,0 +1,10 @@
+C:\Users\Samet\source\repos\FootSquare\FootSquare\bin\Debug\FootSquare.exe.config
+C:\Users\Samet\source\repos\FootSquare\FootSquare\bin\Debug\FootSquare.exe
+C:\Users\Samet\source\repos\FootSquare\FootSquare\bin\Debug\FootSquare.pdb
+C:\Users\Samet\source\repos\FootSquare\FootSquare\obj\Debug\FootSquare.csprojAssemblyReference.cache
+C:\Users\Samet\source\repos\FootSquare\FootSquare\obj\Debug\FootSquare.FootSquare.resources
+C:\Users\Samet\source\repos\FootSquare\FootSquare\obj\Debug\FootSquare.Properties.Resources.resources
+C:\Users\Samet\source\repos\FootSquare\FootSquare\obj\Debug\FootSquare.csproj.GenerateResource.cache
+C:\Users\Samet\source\repos\FootSquare\FootSquare\obj\Debug\FootSquare.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\FootSquare\FootSquare\obj\Debug\FootSquare.exe
+C:\Users\Samet\source\repos\FootSquare\FootSquare\obj\Debug\FootSquare.pdb
